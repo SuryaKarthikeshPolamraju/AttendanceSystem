@@ -1,6 +1,6 @@
-import cv as cv2
+import cv2
 
-name = 'bobby' #replace with your name
+name = 'wick' #replace with your name
 
 cam = cv2.VideoCapture(0)
 
